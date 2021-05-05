@@ -1,6 +1,6 @@
 # UW INFORMATICS CAPSTONE 2021 - Virtual Heairng Screening
 
-## Adapted from React JS Landing Page Template
+## Adapted From: React JS Landing Page Template
 
 ### Original <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
 
@@ -23,4 +23,5 @@ You can also change styles by modifying the ```public/css``` files.
 ##### Free CSS 
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
-##### Issaaf kattan
+##### ORIGINIALLY BY: Issaaf kattan
+##### ADAPTED BY: MICHELLE PONTING
