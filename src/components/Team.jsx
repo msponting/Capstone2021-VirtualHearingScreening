@@ -3,10 +3,9 @@ export const Team = (props) => {
     <div id='team' className='text-center'>
       <div className='container'>
         <div className='col-md-8 col-md-offset-2 section-title'>
-          <h2>Meet the Team</h2>
+          <h2>Team Trolls</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Sponsered by: <a href="https://www.soundsustainability.org/">Sound Sustainability</a>
           </p>
         </div>
         <div id='row'>
@@ -24,6 +23,10 @@ export const Team = (props) => {
                 </div>
               ))
             : 'loading'}
+        </div>
+        <div id='row'>
+          {' '}
+          <img src='img/iSchoolPrimary_RGB_Black.jpg' alt='' />{' '}
         </div>
       </div>
     </div>
