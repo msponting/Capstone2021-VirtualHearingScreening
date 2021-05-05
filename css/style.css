@@ -342,7 +342,12 @@ header .intro-text {
 	color: #888;
 }
 @media (max-width: 768px) {
-#about img {
-	margin: 50px 0;
+	#about img {
+		margin: 50px 0;
+	}
 }
+@media (max-width: 500px) {
+	.intro h1 {
+		font-size: 60px;
+	}
 }
