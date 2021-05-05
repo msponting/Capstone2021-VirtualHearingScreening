@@ -74,12 +74,9 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
-#menu a.navbar-brand {
-	font-family: 'Roboto', 'Open Sans', sans-serif;
-	font-size: 24px;
-	font-weight: 700;
-	color: #333;
-	text-transform: uppercase;
+.nav-image {
+	height: 50px;
+	width: auto;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Roboto', 'Open Sans', sans-serif;
@@ -128,6 +125,9 @@ hr {
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #D9583B;
+}
+.nav-logo {
+	padding: 0;
 }
 .section-title {
 	margin-bottom: 70px;
@@ -193,14 +193,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro h1 {
 	font-family: 'Roboto', 'Open Sans', sans-serif;
 	color: #fff;
+	font-size: 10rem;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
 	margin-bottom: 10px;
-}
-.intro h1 span {
-	font-weight: 800;
-	color: #F28F38;
 }
 .intro p {
 	color: #fff;
@@ -211,7 +208,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 60px;
 }
 header .intro-text {
-	padding-top: 350px;
+	padding-top: 250px;
 	padding-bottom: 200px;
 	text-align: center;
 }
@@ -343,5 +340,18 @@ header .intro-text {
 @media (max-width: 768px) {
 	#about img {
 		margin: 50px 0;
+	}
+
+	.intro h1 {
+		font-size: 8rem;
+	}
+}
+@media (max-width: 500px) {
+	#about img {
+		margin: 50px 0;
+	}
+
+	.intro h1 {
+		font-size: 5rem;
 	}
 }
