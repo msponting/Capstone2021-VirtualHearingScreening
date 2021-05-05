@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Capstone2021-VirtualHearingScreening/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Capstone2021-VirtualHearingScreening/static/js/main.6d331cbc.chunk.js",
+    "main.js.map": "/Capstone2021-VirtualHearingScreening/static/js/main.6d331cbc.chunk.js.map",
+    "runtime-main.js": "/Capstone2021-VirtualHearingScreening/static/js/runtime-main.87274887.js",
+    "runtime-main.js.map": "/Capstone2021-VirtualHearingScreening/static/js/runtime-main.87274887.js.map",
+    "static/js/2.255a597c.chunk.js": "/Capstone2021-VirtualHearingScreening/static/js/2.255a597c.chunk.js",
+    "static/js/2.255a597c.chunk.js.map": "/Capstone2021-VirtualHearingScreening/static/js/2.255a597c.chunk.js.map",
+    "index.html": "/Capstone2021-VirtualHearingScreening/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Capstone2021-VirtualHearingScreening/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.255a597c.chunk.js.LICENSE.txt": "/Capstone2021-VirtualHearingScreening/static/js/2.255a597c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87274887.js",
+    "static/js/2.255a597c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6d331cbc.chunk.js"
+  ]
+}
