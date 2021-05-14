@@ -17,13 +17,20 @@ export const About = (props) => {
                   <ul>
                     {props.data
                       ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
+                        <li className="list-unstyled" key={`${d}-${i}`}>{d}</li>
+                      ))
                       : 'loading'}
                   </ul>
                 </div>
               </div>
             </div>
+            <a
+              // need to sub out with correct link eventually
+              href='https://soundsustainabilityhearingtest.web.app/home'
+              className='btn btn-custom btn-lg page-scroll about-btn'
+            >
+              Take Your Screening
+              </a>{' '}
           </div>
         </div>
       </div>

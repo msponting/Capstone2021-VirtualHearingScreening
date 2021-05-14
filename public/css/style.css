@@ -262,6 +262,9 @@ header .intro-text {
 	font-weight: 300;
 	padding-right: 8px;
 }
+#about .about-text {
+	margin-bottom: 20px;
+}
 #about img {
 	width: 520px;
 	margin-top: 10px;
@@ -307,7 +310,6 @@ header .intro-text {
 .testimonial-content p {
 	margin-bottom: 0;
 	font-size: 14px;
-	font-style: italic;
 }
 .testimonial-meta {
 	margin-top: 10px;

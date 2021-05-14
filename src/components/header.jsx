@@ -11,10 +11,11 @@ export const Header = (props) => {
               </h1>
               <p>{props.data ? props.data.paragraph : 'Loading'}</p>
               <a
-                href='#features'
+                // need to sub out with correct link eventually
+                href='https://soundsustainabilityhearingtest.web.app/home'
                 className='btn btn-custom btn-lg page-scroll'
               >
-                Learn More
+                Take Your Screening
                 </a>{' '}
             </div>
           </div>

@@ -1,9 +1,9 @@
 {
     "Header": {
-
+  
         "title": "Virtual Hearing Screening",
-        "paragraph": "Sponsered by: Sound Sustainability"
-
+        "paragraph": "Sponsored by: Sound Sustainability"
+  
     },
     "About": {
         "paragraph": "According to the National Institute on Deafness and Other Communication Disorders, 15% of American adults (37.5 million) report some trouble hearing, yet only 1 in 5 people that would benefit from a hearing aid use one. Sound Sustainability’s online hearing screening removes barriers preventing people from determining whether they have hearing loss. To do this, we worked with audiologists to produce a free, easy-to-use, hearing screening that has users listen and respond to a series of tones played at different frequencies and decibels. Our goal is to allow people concerned for their hearing health to quickly check their hearing within the comfort of their own homes.",
@@ -41,33 +41,34 @@
         }, {
             "img": "img/team/03.jpg",
             "name": "Alycia Nguyen",
-            "job": "Back-End Developer + Vizualization Designer"
+            "job": "Back-End Developer + Visualization Designer"
         },
         {
             "img": "img/team/04.jpg",
             "name": "Sophie Werner",
-            "job": "Back-End Developer + Cyber Security Speicalist"
+            "job": "Back-End Developer + Cyber Security Specialist"
         }
     ],
     "Overview": [{
             "icon": "fa bi bi-gear-wide",
-            "title": "Set Up",
-            "text": "Place yourself in a quiet environment and grab any type of heaphone."
+            "title": "1. Set Up",
+            "text": "Find a quiet, comfortable environment and your favorite pair of headphones."
         },
         {
             "icon": "fa bi bi-sliders",
-            "title": "Calibrate",
+            "title": "2. Calibrate",
             "text": "Select the type of headphones you are using and adjust your device's volume to 50%."
         },
         {
             "icon": "fa bi bi-headphones",
-            "title": "Listen",
-            "text": "A series of tones will play and you must determine if you can or cannot hear the tone."
+            "title": "3. Listen",
+            "text": "You will hear a series of tones and identify which tones you're hearing."
         },
         {
             "icon": "fa bi bi-clipboard-data",
-            "title": "Discover",
-            "text": "Get your hearing level based on the how you responded to the listening section and take next steps."
+            "title": "4. Discover",
+            "text": "Get instant results and personalized guidance on the next steps in your hearing journey."
         }
     ]
-}
+ }
+ 
