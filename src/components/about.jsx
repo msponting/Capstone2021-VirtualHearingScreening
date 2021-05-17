@@ -26,7 +26,7 @@ export const About = (props) => {
             </div>
             <a
               // need to sub out with correct link eventually
-              href='https://soundsustainabilityhearingtest.web.app/home'
+              href='https://virtualhearingscreening.web.app/home'
               className='btn btn-custom btn-lg page-scroll about-btn'
             >
               Take Your Screening
